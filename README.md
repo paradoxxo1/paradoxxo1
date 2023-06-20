@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm paradoxxo1</h1>
 <h3 align="center">I'm just Normal Guy</h3>
-<img align="right" alt="Coding" width="400" src:"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF6b3Zqd2gzNzJqczNweXNwYm5va2dzc3B5ZzVoZzRzZHZva3pvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxxo1&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxxo1" /> </p>
 
