@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm paradoxxo1</h1>
 <h3 align="center">I'm just Normal Guy</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src:"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF6b3Zqd2gzNzJqczNweXNwYm5va2dzc3B5ZzVoZzRzZHZva3pvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxxo1&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxxo1" /> </p>
 
