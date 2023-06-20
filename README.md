@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/paradoxxo1](https://github.com/paradoxxo1)
 
-- ⚡ Fun fact [I'm Just Human....](I'm Just Human....)
+- ⚡ Fun fact [I'm Just Human....]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
