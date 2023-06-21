@@ -5,8 +5,8 @@
 
 
 
-<?= \coderius\hitCounter\widgets\hitCounter\HitCounterWidget::widget([]); ?>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 <p align="left"> <a href="https://twitter.com/paradoxxoyt" target="blank"><img src="https://img.shields.io/twitter/follow/paradoxxoyt?logo=twitter&style=for-the-badge" alt="paradoxxoyt" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/paradoxxo1](https://github.com/paradoxxo1)
