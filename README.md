@@ -5,7 +5,7 @@
 
 
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+<?= \coderius\hitCounter\widgets\hitCounter\HitCounterWidget::widget([]); ?>
 
 <p align="left"> <a href="https://twitter.com/paradoxxoyt" target="blank"><img src="https://img.shields.io/twitter/follow/paradoxxoyt?logo=twitter&style=for-the-badge" alt="paradoxxoyt" /></a> </p>
 
