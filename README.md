@@ -5,7 +5,7 @@
 
 
 
-[GitHub Profile Views Counter]: https://github.com/paradoxxo1/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 [Ÿ HŸPE]: https://yhype.me
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 
