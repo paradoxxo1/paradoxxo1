@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm just Normal Guy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxxo1&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxxo1" /> </p>
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/paradoxxo1](https://github.com/paradoxxo1)
 
