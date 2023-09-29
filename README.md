@@ -3,7 +3,6 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/paradoxxo1](https://github.com/paradoxxo1)
 
 - 📫 How to reach me **mahmutdmrkrn14@hotmail.com**
 
