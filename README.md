@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm just Normal Guy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxxo1&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxxo1" /> </p>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paradoxxo1&show_icons=true&locale=en&layout=compact" alt="paradoxxo1" /></p>
 
 - 📫 How to reach me **mahmutdmrkrn14@hotmail.com**
